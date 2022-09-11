@@ -6,6 +6,7 @@ Working on publishing all my goodness here.
   - [VMWare Solutions](https://mlwiles.github.io/vmwaresolutions/)
 - [Script Library](https://github.com/mlwiles/scripts)
 - [Web Stuff](https://github.com/mlwiles/www)
+  - [CWE Tree](https://mlwiles.github.io/www/cwe/)
 - [Command Notes](https://github.com/mlwiles/commando)
 - [Misc Stuff](https://github.com/mlwiles/stuff)
 - [Leetcode](https://github.com/mlwiles/leetcode)
